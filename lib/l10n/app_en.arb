@@ -1,0 +1,136 @@
+{
+  "@@locale": "en",
+  "appTitle": "IQ Test",
+  "startTest": "Start Test",
+  "continueTest": "Continue Test",
+  "viewResults": "View Results",
+  "settings": "Settings",
+  "about": "About",
+  "language": "Language",
+  "theme": "Theme",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "systemMode": "System",
+
+  "welcomeTitle": "Welcome to IQ Test",
+  "welcomeSubtitle": "Discover your cognitive potential",
+  "welcomeDescription": "This comprehensive IQ test evaluates your cognitive abilities across 5 key areas: Verbal, Numerical, Logical, Spatial, and Pattern Recognition.",
+  "testDuration": "Test Duration",
+  "minutes": "{count} minutes",
+  "@minutes": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "totalQuestions": "{count} Questions",
+  "@totalQuestions": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "readyToBegin": "Ready to begin?",
+  "instructions": "Instructions",
+  "instructionsText": "• Answer each question to the best of your ability\n• Some questions are timed\n• You cannot go back to previous questions\n• Take your time on difficult questions\n• Your score will be calculated at the end",
+
+  "categoryVerbal": "Verbal",
+  "categoryNumerical": "Numerical",
+  "categoryLogical": "Logical",
+  "categorySpatial": "Spatial",
+  "categoryPattern": "Pattern Recognition",
+
+  "categoryVerbalDesc": "Language comprehension, vocabulary, and verbal reasoning",
+  "categoryNumericalDesc": "Mathematical aptitude and number series recognition",
+  "categoryLogicalDesc": "Deductive reasoning and logical problem-solving",
+  "categorySpatialDesc": "Visual-spatial awareness and mental rotation",
+  "categoryPatternDesc": "Pattern identification and sequence completion",
+
+  "questionOf": "Question {current} of {total}",
+  "@questionOf": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "timeRemaining": "Time Remaining",
+  "next": "Next",
+  "submit": "Submit",
+  "skip": "Skip",
+  "selectAnswer": "Select an answer",
+  "selectAllThatApply": "Select all that apply",
+  "completeSequence": "Complete the sequence",
+  "chooseCorrectOption": "Choose the correct option",
+
+  "testComplete": "Test Complete!",
+  "calculatingResults": "Calculating your results...",
+  "yourIQScore": "Your IQ Score",
+  "percentile": "Percentile",
+  "percentileDesc": "You scored higher than {percent}% of test takers",
+  "@percentileDesc": {
+    "placeholders": {
+      "percent": {"type": "int"}
+    }
+  },
+  "categoryBreakdown": "Category Breakdown",
+  "interpretation": "Interpretation",
+  "shareResults": "Share Results",
+  "saveResults": "Save Results",
+  "retakeTest": "Retake Test",
+  "backToHome": "Back to Home",
+
+  "iqRangeVeryLow": "Below Average",
+  "iqRangeLow": "Low Average",
+  "iqRangeAverage": "Average",
+  "iqRangeAboveAverage": "Above Average",
+  "iqRangeHigh": "High",
+  "iqRangeVeryHigh": "Very High",
+  "iqRangeSuperior": "Superior",
+  "iqRangeGifted": "Gifted",
+
+  "iqInterpretationVeryLow": "Your score indicates areas where additional cognitive development may be beneficial. Consider engaging in brain-training activities.",
+  "iqInterpretationLow": "Your score is slightly below average. Regular mental exercises and learning new skills can help improve cognitive function.",
+  "iqInterpretationAverage": "Your score falls within the average range, similar to most of the population. You demonstrate solid cognitive abilities.",
+  "iqInterpretationAboveAverage": "Your score is above average, indicating strong cognitive abilities across multiple areas.",
+  "iqInterpretationHigh": "You demonstrate high cognitive ability. Your problem-solving and reasoning skills are well-developed.",
+  "iqInterpretationVeryHigh": "Your score indicates very high intelligence. You excel in complex reasoning and abstract thinking.",
+  "iqInterpretationSuperior": "You demonstrate superior cognitive abilities, placing you among the top performers.",
+  "iqInterpretationGifted": "Your score indicates exceptional cognitive abilities, placing you in the gifted range.",
+
+  "resultsSaved": "Results saved successfully",
+  "resultsShared": "Results shared successfully",
+  "error": "An error occurred",
+  "tryAgain": "Try Again",
+  "cancel": "Cancel",
+  "ok": "OK",
+  "yes": "Yes",
+  "no": "No",
+
+  "exitTestTitle": "Exit Test?",
+  "exitTestMessage": "Are you sure you want to exit? Your progress will be lost.",
+  "exitTest": "Exit Test",
+
+  "noResultsYet": "No Results Yet",
+  "noResultsMessage": "Complete your first test to see your results here.",
+  "previousResults": "Previous Results",
+  "testDate": "Test Date",
+  "score": "Score",
+  "deleteResult": "Delete Result",
+  "deleteResultConfirm": "Are you sure you want to delete this result?",
+
+  "accuracy": "Accuracy",
+  "timeSpent": "Time Spent",
+  "averageTime": "Average Time per Question",
+  "seconds": "{count} seconds",
+  "@seconds": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+
+  "difficultyEasy": "Easy",
+  "difficultyMedium": "Medium",
+  "difficultyHard": "Hard",
+
+  "correct": "Correct!",
+  "incorrect": "Incorrect",
+  "explanation": "Explanation"
+}

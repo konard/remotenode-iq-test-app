@@ -1,0 +1,136 @@
+{
+  "@@locale": "es",
+  "appTitle": "Test de CI",
+  "startTest": "Iniciar Test",
+  "continueTest": "Continuar Test",
+  "viewResults": "Ver Resultados",
+  "settings": "Configuración",
+  "about": "Acerca de",
+  "language": "Idioma",
+  "theme": "Tema",
+  "darkMode": "Modo Oscuro",
+  "lightMode": "Modo Claro",
+  "systemMode": "Sistema",
+
+  "welcomeTitle": "Bienvenido al Test de CI",
+  "welcomeSubtitle": "Descubre tu potencial cognitivo",
+  "welcomeDescription": "Este test completo de CI evalúa tus capacidades cognitivas en 5 áreas clave: Verbal, Numérica, Lógica, Espacial y Reconocimiento de Patrones.",
+  "testDuration": "Duración del Test",
+  "minutes": "{count} minutos",
+  "@minutes": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "totalQuestions": "{count} Preguntas",
+  "@totalQuestions": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "readyToBegin": "¿Listo para comenzar?",
+  "instructions": "Instrucciones",
+  "instructionsText": "• Responde cada pregunta lo mejor que puedas\n• Algunas preguntas tienen tiempo límite\n• No puedes volver a preguntas anteriores\n• Tómate tu tiempo en las preguntas difíciles\n• Tu puntuación se calculará al final",
+
+  "categoryVerbal": "Verbal",
+  "categoryNumerical": "Numérica",
+  "categoryLogical": "Lógica",
+  "categorySpatial": "Espacial",
+  "categoryPattern": "Reconocimiento de Patrones",
+
+  "categoryVerbalDesc": "Comprensión del lenguaje, vocabulario y razonamiento verbal",
+  "categoryNumericalDesc": "Aptitud matemática y reconocimiento de series numéricas",
+  "categoryLogicalDesc": "Razonamiento deductivo y resolución lógica de problemas",
+  "categorySpatialDesc": "Conciencia visual-espacial y rotación mental",
+  "categoryPatternDesc": "Identificación de patrones y completar secuencias",
+
+  "questionOf": "Pregunta {current} de {total}",
+  "@questionOf": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "timeRemaining": "Tiempo Restante",
+  "next": "Siguiente",
+  "submit": "Enviar",
+  "skip": "Omitir",
+  "selectAnswer": "Selecciona una respuesta",
+  "selectAllThatApply": "Selecciona todas las opciones correctas",
+  "completeSequence": "Completa la secuencia",
+  "chooseCorrectOption": "Elige la opción correcta",
+
+  "testComplete": "¡Test Completado!",
+  "calculatingResults": "Calculando tus resultados...",
+  "yourIQScore": "Tu Puntuación de CI",
+  "percentile": "Percentil",
+  "percentileDesc": "Puntuaste más alto que el {percent}% de los participantes",
+  "@percentileDesc": {
+    "placeholders": {
+      "percent": {"type": "int"}
+    }
+  },
+  "categoryBreakdown": "Desglose por Categoría",
+  "interpretation": "Interpretación",
+  "shareResults": "Compartir Resultados",
+  "saveResults": "Guardar Resultados",
+  "retakeTest": "Repetir Test",
+  "backToHome": "Volver al Inicio",
+
+  "iqRangeVeryLow": "Por Debajo del Promedio",
+  "iqRangeLow": "Promedio Bajo",
+  "iqRangeAverage": "Promedio",
+  "iqRangeAboveAverage": "Por Encima del Promedio",
+  "iqRangeHigh": "Alto",
+  "iqRangeVeryHigh": "Muy Alto",
+  "iqRangeSuperior": "Superior",
+  "iqRangeGifted": "Superdotado",
+
+  "iqInterpretationVeryLow": "Tu puntuación indica áreas donde el desarrollo cognitivo adicional puede ser beneficioso. Considera realizar actividades de entrenamiento cerebral.",
+  "iqInterpretationLow": "Tu puntuación está ligeramente por debajo del promedio. Los ejercicios mentales regulares y aprender nuevas habilidades pueden ayudar a mejorar la función cognitiva.",
+  "iqInterpretationAverage": "Tu puntuación está dentro del rango promedio, similar a la mayoría de la población. Demuestras capacidades cognitivas sólidas.",
+  "iqInterpretationAboveAverage": "Tu puntuación está por encima del promedio, lo que indica fuertes capacidades cognitivas en múltiples áreas.",
+  "iqInterpretationHigh": "Demuestras alta capacidad cognitiva. Tus habilidades de resolución de problemas y razonamiento están bien desarrolladas.",
+  "iqInterpretationVeryHigh": "Tu puntuación indica inteligencia muy alta. Sobresales en razonamiento complejo y pensamiento abstracto.",
+  "iqInterpretationSuperior": "Demuestras capacidades cognitivas superiores, ubicándote entre los mejores participantes.",
+  "iqInterpretationGifted": "Tu puntuación indica capacidades cognitivas excepcionales, ubicándote en el rango de superdotados.",
+
+  "resultsSaved": "Resultados guardados exitosamente",
+  "resultsShared": "Resultados compartidos exitosamente",
+  "error": "Ocurrió un error",
+  "tryAgain": "Intentar de Nuevo",
+  "cancel": "Cancelar",
+  "ok": "OK",
+  "yes": "Sí",
+  "no": "No",
+
+  "exitTestTitle": "¿Salir del Test?",
+  "exitTestMessage": "¿Estás seguro de que quieres salir? Tu progreso se perderá.",
+  "exitTest": "Salir del Test",
+
+  "noResultsYet": "Sin Resultados Todavía",
+  "noResultsMessage": "Completa tu primer test para ver tus resultados aquí.",
+  "previousResults": "Resultados Anteriores",
+  "testDate": "Fecha del Test",
+  "score": "Puntuación",
+  "deleteResult": "Eliminar Resultado",
+  "deleteResultConfirm": "¿Estás seguro de que quieres eliminar este resultado?",
+
+  "accuracy": "Precisión",
+  "timeSpent": "Tiempo Empleado",
+  "averageTime": "Tiempo Promedio por Pregunta",
+  "seconds": "{count} segundos",
+  "@seconds": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+
+  "difficultyEasy": "Fácil",
+  "difficultyMedium": "Medio",
+  "difficultyHard": "Difícil",
+
+  "correct": "¡Correcto!",
+  "incorrect": "Incorrecto",
+  "explanation": "Explicación"
+}
